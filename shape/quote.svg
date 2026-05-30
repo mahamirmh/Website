@@ -1,0 +1,17 @@
+<svg width="48px" height="42px" viewBox="0 0 48 42" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(48,0) scale(-1,1)">
+    <g id="Inner-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.2">
+      <g id="Testimonial" transform="translate(-857, -803)" fill="#00D09C" fill-rule="nonzero">
+        <g transform="translate(295, 536)" id="testimonial-copy">
+          <g transform="translate(0, 206)">
+            <g id="testimonial-content" transform="translate(0, 0.52517)">
+              <g id="Content" transform="translate(55, 60.47483)">
+                <path d="M552.972973,0 L552.972973,6 C551.081072,7.02703216 549.662167,8.878365 548.716216,11.5540541 C547.770266,14.2297431 547.297297,17.7567349 547.297297,22.1351351 L547.297297,24 L555,24 L555,42 L537,42 L537,28.5405405 C537,20.3783376 538.324311,13.9189427 540.972973,9.16216216 C543.621635,4.40538162 547.621595,1.35135811 552.972973,0 Z M522.972973,0 L522.972973,6 C521.081072,7.02703216 519.662167,8.878365 518.716216,11.5540541 C517.770266,14.2297431 517.297297,17.7567349 517.297297,22.1351351 L517.297297,24 L525,24 L525,42 L507,42 L507,28.5405405 C507,20.3783376 508.324311,13.9189427 510.972973,9.16216216 C513.621635,4.40538162 517.621595,1.35135811 522.972973,0 Z" id="“" transform="translate(531, 21) rotate(-180) translate(-531, -21)"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
